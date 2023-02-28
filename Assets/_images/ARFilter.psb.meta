@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 23e0b414b063ce54e8fd4db086cc5aab
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 3
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Ta2_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1567
+      y: 3461
+      width: 301
+      height: 489
+    spriteID: 577cf66808107cc4190f9ba1dc52bc34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1567, y: 3461}
+    spritePosition: {x: 781, y: 3471}
+  - name: Ta2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 1401
+      width: 1033
+      height: 1569
+    spriteID: bf244ea18535b034b8b9ba6355cc7461
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 1401}
+    spritePosition: {x: 664, y: 1961}
+  - name: Ta3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1013
+      height: 1819
+    spriteID: 0af3459c51fb4c94790c014e1e47f56e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 2238, y: 1923}
+  - name: Ta3_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1606
+      y: 2978
+      width: 522
+      height: 425
+    spriteID: 80e6234698b321e4e941b311f4022886
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1606, y: 2978}
+    spritePosition: {x: 2061, y: 3535}
+  - name: Ta7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 4
+      width: 1173
+      height: 1389
+    spriteID: aa228875bcc376348a41607af2d4801c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 4}
+    spritePosition: {x: 746, y: 123}
+  - name: Ta7_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 2978
+      width: 573
+      height: 475
+    spriteID: f661bfcbda77d534a8e6cc2feb4b2782
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 2978}
+    spritePosition: {x: 443, y: 1301}
+  - name: Tb1_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 3461
+      width: 534
+      height: 495
+    spriteID: 15d4b9fea03b22444852bbf8f11fe25e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 3461}
+    spritePosition: {x: 2139, y: 1303}
+  - name: Tb1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2206
+      y: 4
+      width: 1129
+      height: 1410
+    spriteID: 35e17aec708250c4b97f968ab9b0a2e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2206, y: 4}
+    spritePosition: {x: 2581, y: 123}
+  rigSpriteImportData:
+  - name: Ta2_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1567
+      y: 3461
+      width: 301
+      height: 489
+    spriteID: b75043dc3f254874a92679c391f75737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1567, y: 3461}
+    spritePosition: {x: 781, y: 3471}
+  - name: Ta2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 1401
+      width: 1033
+      height: 1569
+    spriteID: f3a4858baed7ce24883c7aa04010a76d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 1401}
+    spritePosition: {x: 664, y: 1961}
+  - name: Ta3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1013
+      height: 1819
+    spriteID: 5ff9cbe74033df54bb4caba2c2be024f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 2238, y: 1923}
+  - name: Ta3_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1606
+      y: 2978
+      width: 522
+      height: 425
+    spriteID: 7a2d9a844b4abdb41839ceb38c92b579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1606, y: 2978}
+    spritePosition: {x: 2061, y: 3535}
+  - name: Ta7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 4
+      width: 1173
+      height: 1389
+    spriteID: c87829711408e0f478f16bcd2f50b989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 4}
+    spritePosition: {x: 746, y: 123}
+  - name: Ta7_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 2978
+      width: 573
+      height: 475
+    spriteID: 46bd7b2aa697e8b44a0b47976abb80a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 2978}
+    spritePosition: {x: 443, y: 1301}
+  - name: Tb1_hut
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 3461
+      width: 534
+      height: 495
+    spriteID: 394510cdf522a0944a0cb9090df84828
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1025, y: 3461}
+    spritePosition: {x: 2139, y: 1303}
+  - name: Tb1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2206
+      y: 4
+      width: 1129
+      height: 1410
+    spriteID: e99652bcc1310a64f999837135f00d30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2206, y: 4}
+    spritePosition: {x: 2581, y: 123}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Windows Store Apps
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: tvOS
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 1
+  mosaicPSDLayers:
+  - name: Ta2_hut
+    spriteName: Ta2_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 577cf66808107cc4190f9ba1dc52bc34
+    layerID: 31
+    mosaicPosition: {x: 1567, y: 3461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta2
+    spriteName: Ta2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf244ea18535b034b8b9ba6355cc7461
+    layerID: 43
+    mosaicPosition: {x: 1025, y: 1401}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta3
+    spriteName: Ta3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0af3459c51fb4c94790c014e1e47f56e
+    layerID: 25
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta3_hut
+    spriteName: Ta3_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 80e6234698b321e4e941b311f4022886
+    layerID: 44
+    mosaicPosition: {x: 1606, y: 2978}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta7
+    spriteName: Ta7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa228875bcc376348a41607af2d4801c
+    layerID: 27
+    mosaicPosition: {x: 1025, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta7_hut
+    spriteName: Ta7_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f661bfcbda77d534a8e6cc2feb4b2782
+    layerID: 28
+    mosaicPosition: {x: 1025, y: 2978}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tb1_hut
+    spriteName: Tb1_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 15d4b9fea03b22444852bbf8f11fe25e
+    layerID: 30
+    mosaicPosition: {x: 1025, y: 3461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tb1
+    spriteName: Tb1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 35e17aec708250c4b97f968ab9b0a2e7
+    layerID: 29
+    mosaicPosition: {x: 2206, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Ta2_hut
+    spriteName: Ta2_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b75043dc3f254874a92679c391f75737
+    layerID: 31
+    mosaicPosition: {x: 1567, y: 3461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta2
+    spriteName: Ta2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3a4858baed7ce24883c7aa04010a76d
+    layerID: 43
+    mosaicPosition: {x: 1025, y: 1401}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta3
+    spriteName: Ta3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5ff9cbe74033df54bb4caba2c2be024f
+    layerID: 25
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta3_hut
+    spriteName: Ta3_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7a2d9a844b4abdb41839ceb38c92b579
+    layerID: 44
+    mosaicPosition: {x: 1606, y: 2978}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta7
+    spriteName: Ta7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c87829711408e0f478f16bcd2f50b989
+    layerID: 27
+    mosaicPosition: {x: 1025, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ta7_hut
+    spriteName: Ta7_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 46bd7b2aa697e8b44a0b47976abb80a4
+    layerID: 28
+    mosaicPosition: {x: 1025, y: 2978}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tb1_hut
+    spriteName: Tb1_hut
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 394510cdf522a0944a0cb9090df84828
+    layerID: 30
+    mosaicPosition: {x: 1025, y: 3461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tb1
+    spriteName: Tb1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e99652bcc1310a64f999837135f00d30
+    layerID: 29
+    mosaicPosition: {x: 2206, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

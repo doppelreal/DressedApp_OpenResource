@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FilterDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Character ID="Ta2" Img="Ta2" Region="Holstein" Kreis="Plön">
+    <Titel>Probsteier Buttermädchen</Titel>
+    <Data>Datierung............. um 1850 &#13;&#10;Region.................. Probstei/Holstein</Data>
+    <Kuenstler>Datierung............. um 1850 &#13;&#10;Region.................. Probstei/Holstein &#13;&#10;Heinrich Jessen (um 1830 -?)</Kuenstler>
+    <Beschreibung>Ehefrauen, Töchter und Mägde der Bauern aus dem Herzogtum Holstein kamen als Buttermädchen in die Städte, um auf den Märkten ihre Butter zu verkaufen. Zu erkennen waren sie an ihrer markanten Kopfbedeckung. Sie trugen ein weißes Rüschenband um den Kopf sowie einen schwarzen Zylinder, der für Frauen untypisch war. Über ihrer Schulter trug die Butterhändlerin mithilfe eines Stocks zwei große Körbe, in denen sich die Butter für den Verkauf befand.</Beschreibung>
+  </Character>
+
+  <Character ID="Ta3" Img="Ta3" Region="Schleswig" Kreis="Schleswig-Flensburg">
+    <Titel>Magd aus dem Herzogtum Schleswig</Titel>
+    <Data>Datierung............. vermutlich Anfang 19. Jh. &#13;&#10;Region................ Herzogtum Schleswig</Data>
+    <Kuenstler>Datierung............. vermutlich Anfang 19. Jh. &#13;&#10;Region................ Herzogtum Schleswig &#13;&#10;Künstler*in.......... Mason Jackson (1819-1903)</Kuenstler>
+    <Beschreibung>Vielerorts wurden auf Bauerhöfen Mägde und Knechte zur Hilfe für alle landwirtschaftlichen Aufgaben eingestellt. Sie lebten im bäuerlichen Haushalt und bekamen einen Schlafplatz zugewiesen. Ihr einziges Möbelstück war oft nur eine Truhe oder ein großer Koffer, in denen sie ihre wenigen persönlichen Habseligkeiten verwahrten. Bei der Arbeit trugen die Mägde Funktionskleidung, an Sonn- und Feiertagen die feinste Kleidung, die sie besaßen. Ihre Kleidung war stets selbst genäht.</Beschreibung>
+  </Character>
+
+  <Character ID="Ta7" Img="Ta7" Region="Holstein" Kreis="Hamburg Bergedorf">
+    <Titel>Vierländerin</Titel>
+    <Data>Datierung............. vermutlich Mitte 19. Jh. &#13;&#10;Region................ Vierlande</Data>
+    <Kuenstler>Datierung............. vermutlich Mitte 19. Jh. &#13;&#10;Region................ Vierlande &#13;&#10;Künstler*in.......... Christopher Suhr (1771-1842)</Kuenstler>
+    <Beschreibung>Besonderes Erkennungsmerkmal der Vierländerin war ihre Kopftracht. Sie trug eine Haube, darüber einen Strohhut mit ausgestellter Krempe. Zwischen Kopf und Krempe wurde ein quer über den Kopf gehendes, schwarzseidenes Band durchgezogen, dessen Enden unter dem Kinn zusammengebunden wurden. Die Tracht bildete sich etwa Mitte des 18. Jahrhunderts heraus und galt seither als ein Gütesiegel für das auf den Hamburger Märkten angebotene Obst und Gemüse aus den Vierlanden. Die Tracht unterschied sich nicht wesentlich von der seinerzeit üblichen bäuerlichen Arbeitskleidung.</Beschreibung>
+  </Character>
+
+  <Character ID="Tb1" Img="Tb1" Region="Blankenese" Kreis="Hamburg">
+    <Titel>Blankeneser Fischerfrauentracht</Titel>
+    <Data>Datierung............. 1802 &#13;&#10;Region................ Blankenese</Data>
+    <Kuenstler>Datierung............. 1802 &#13;&#10;Region................ Blankenese &#13;&#10;Künstler*in.......... Christopher Suhr (1771-1842)</Kuenstler>
+    <Beschreibung>Der kolorierte Kupferstich zeigt eine Blankeneser Frau in ihrer Fischertracht auf dem Fischmarkt in Altona. Ihre Tracht diente beim Verkauf als qualitative „Herkunftsangabe“ und war eine frühe Art der werbewirksamen Uniform. Ihre Tracht hatte eine auffallende Ähnlichkeit zur der Bardowicker Tracht aus dem Lüneburger Raum. Auch diese trugen die lange Bluse, den roten Rock, das blaue Mieder und Schürze. Die Bardowickerinnen verkauften im 17. und 18. Jahrhundert ebenfalls ihr Gemüse auf den Hamburger Märkten, wo sie mit Blankeneser Frauen zusammentrafen und sich gewiss über die neueste Mode austauschten.</Beschreibung>
+  </Character>
+  
+</FilterDatabase>

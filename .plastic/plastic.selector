@@ -1,0 +1,4 @@
+repository "DressedApp_OpenResources@DoppelReal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
